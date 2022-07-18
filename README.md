@@ -15,7 +15,7 @@ CS 472 Web Programming - WAP
 
 CS 435 Algorithms - ALG
 
-CS 572 Modern Web Applications
+CS 572 Modern Web Applications - MWA
 
 
 ====================================
